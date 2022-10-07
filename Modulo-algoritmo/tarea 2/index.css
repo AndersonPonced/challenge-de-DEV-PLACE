@@ -1,0 +1,49 @@
+.contra2{
+opacity: 0% ;
+
+
+
+} 
+
+.contra2-total{
+    opacity: 100% ;
+    
+    
+    
+    } 
+ 
+        .todo-opacity{
+            opacity:  0% ;
+            
+            
+            
+            } 
+
+.texto{
+
+   position: absolute;
+   left: 45%;
+   font-size: 20px;
+  
+
+
+}
+.texto-mal{
+
+    position: absolute;
+    left: 45%;
+    font-size: 20px;
+   color: rgb(226, 23, 23);
+ 
+ 
+ }
+ .texto-bien{
+
+    position: absolute;
+    left: 45%;
+    font-size: 20px;
+   color: rgb(59, 59, 206);
+ 
+ 
+ }
+ 
